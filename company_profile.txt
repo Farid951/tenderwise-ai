@@ -1,0 +1,5 @@
+Company capability profile (fictional demonstration)
+
+We supply enterprise IT equipment and solutions, including network switches, routers, wireless access points, servers, storage systems, backup solutions, virtualization platforms, and data-center infrastructure. Our team provides technical consulting, installation, configuration, maintenance, and project delivery. We work with enterprise vendors and channel partners and can coordinate procurement, logistics, and technical presales for large organizations.
+
+This sample profile is fictional. Replace it with an accurate, approved description of your own organization before using the tool.
